@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt= "wordpress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height= "40"/>                                                                   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt= "java" width="40" height="40"/>                                             <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt= "Google cloud" width="40" height="40"/>                   
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt= "firebase" width="40" height="40"/>                                     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt= "Html" width="40" height="40"/>                                           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt= "Python" width="40" height="40"/>                                       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt= "Photoshop" width="40" height="40"/> 
-       
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" />   
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" /> 
+ 
 
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 <h3 align="left">Connect with me:</h3>
