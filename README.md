@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudadheech&repo=github-readme-stats" alt="himanshudadheech" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudadheech&repo=github-readme-stats" alt="himanshudadheech"/> 
 </p>
 </p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&locale=en" alt="himanshudadheech" /></p> -->
