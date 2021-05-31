@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
 </p>
 
-<h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
+
 
 
  
