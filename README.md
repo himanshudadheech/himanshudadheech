@@ -1,22 +1,7 @@
 ### Hi there 👋 I'm Himanshu Dadheech
--🔭 I’m currently working on At TheMad: Market and Developer
 
 
 
--🌱 I’m currently learning Android
-
-
--👯 I’m looking to collaborate on ...Marketing,Internships, and Digital Marketing
-
--🤔 I’m looking for help with ...
-
--📫 How to reach me: linkedin ,Instagram
-
--💬 Ask me about coding, web developement, Wordpress, Youtube, Digital Marketing, Google cloud.
-
--😄 Pronouns: he/him/his
-
--⚡ Fun fact: You vist my github repos.
 
 <!--
 **himanshudadheech/himanshudadheech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,11 +22,24 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudadheech&label=Profile%20views&color=129e00&style=plastic" alt="himanshudadheech" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.tech/](https://himanshudadheech.tech/)
+- 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.rf.gd/](https://himanshudadheech.rf.gd/)
 
-- 📫 How to reach me *himanshudadheech74@gmail.com*
+- 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.tech/](https://himanshudadheech.tech/)*
 
 - ⚡ Fun fact *I think I am funny XD*
+
+- 🔭 I’m currently working At TheMad: Market and Developer
+
+-🌱 I’m currently learning Android
+
+-👯 I’m looking to collaborate on ...Marketing,Internships, and Digital Marketing
+
+-🤔 I’m looking for help with ...
+
+-💬 Ask me about coding, web developement, Wordpress, Youtube, Digital Marketing, Google cloud.
+
+-😄 Pronouns: he/him/his
+<h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +48,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCHAcoZ9mcQQyfKYjy5YPXEA" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/youtube.svg" alt="himanshu_dadheech_" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -60,14 +59,15 @@ Here are some ideas to get you started:
        
 </p>
 
+<h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
  <p >
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
-  
-              
-  </p>
-  <p>
+ </p>
+
+<h3 align="center">-------------------------------------------------------------------------------------------------------</h3> 
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" alt="himanshudadheech" /> 
-  </p>
+</p>
 
   
 
