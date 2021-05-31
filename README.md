@@ -62,9 +62,9 @@ Here are some ideas to get you started:
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" alt="himanshudadheech" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&locale=en" alt="himanshudadheech" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&locale=en" alt="himanshudadheech" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true" alt="himanshudadheech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=radical" alt="himanshudadheech" /></p>
 
 
 <!--
