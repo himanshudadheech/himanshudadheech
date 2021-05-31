@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudadheech&label=Profile%20views&color=129e00&style=plastic" alt="himanshudadheech" /> </p>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
 
 - 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.rf.gd/](https://himanshudadheech.rf.gd/)
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshu dadheech" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/himanshudadheech/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="himanshudadheech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHAcoZ9mcQQyfKYjy5YPXEA" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/youtube.svg" alt="himanshu_dadheech_" height="30" width="40" /></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
+  
 </p>
 
 
