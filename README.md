@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshu dadheech" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/himanshudadheech/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="himanshudadheech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHAcoZ9mcQQyfKYjy5YPXEA" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/youtube.svg" alt="himanshu_dadheech_" height="30" width="40" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
 </p>
 
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
@@ -61,14 +62,11 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
- <p align="left" >
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
- </p>
-<br>
-<h3 align="center">-------------------------------------------------------------------------------------------------------</h3> 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" alt="himanshudadheech" /> 
-</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
+ 
+
+
 
   
 
