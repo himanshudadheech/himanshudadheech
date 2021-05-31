@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="href="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></p>
+<p align="left"> <a href="href="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/></p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" alt="himanshudadheech" /></p>
 
