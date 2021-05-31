@@ -52,17 +52,15 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/></p>
+<p align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt=wordpress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/>                                                                   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>                                             <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google cloud" width="40" height="40"/>                   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>                                     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"/>                                           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>                                       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt=Photoshop" width="40" height="40"/>    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        </p>
 
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/></p> 
- 
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p> 
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google cloud" width="40" height="40"/></p>
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></p>
-<p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"/></p>
- <p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></p>
-   <p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt=Photoshop" width="40" height="40"/></p>
-      <p align="left"> <a href="href="#"" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt=wordpress" width="40" height="40"/></p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudadheech&show_icons=true&locale=en&layout=compact" alt="himanshudadheech" /></p>
 
