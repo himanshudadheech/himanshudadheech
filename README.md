@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on At Themad: MArket and Developer
+
 - 🌱 I’m currently learning ...Android
 - 👯 I’m looking to collaborate on ...Marketing,Internships, and Digital Marketing
 - 🤔 I’m looking for help with ...
