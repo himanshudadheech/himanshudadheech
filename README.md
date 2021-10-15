@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.tech/](https://himanshudadheech.tech/)*
 
-- ⚡ Fun fact *I think I am funny XD*
+- ⚡ Fun fact *I think Android Loves Oreo*
 
 - 🔭 I’m currently working At TheMad: Market and Developer
 
