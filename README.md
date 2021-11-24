@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact *I think Android Loves Oreo*
 
-- 🔭 I’m currently working At TheMad: Market and Developer
-
--🌱 I’m currently learning Android
+-🌱 I’m currently learning Android and Full Stack Web.
 
 -👯 I’m looking to collaborate on ...Marketing,Internships, and Digital Marketing
 
--🤔 I’m looking for help with ...
+-🤔 I’m looking for help with Coding carrer
 
 -💬 Ask me about coding, web developement, Wordpress, Youtube, Digital Marketing, Google cloud.
 
