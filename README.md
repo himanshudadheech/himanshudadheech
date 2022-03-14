@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.rf.gd/](https://himanshudadheech.rf.gd/)
 
-- 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.tech/](https://himanshudadheech.tech/)*
+- 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.live/](https://himanshudadheech.live/)*
 
 - ⚡ Fun fact *I think Android Loves Oreo*
 
