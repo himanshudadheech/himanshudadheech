@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&show_icons=true&theme=tokyonight" alt="himanshudadheech" />
 
 - 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.rf.gd/](https://himanshudadheech.rf.gd/)
+- [https://himanshudadheech.github.io/React-Resume/](https://himanshudadheech.github.io/React-Resume/)
 
 - 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.live/](https://himanshudadheech.live/)*
 
