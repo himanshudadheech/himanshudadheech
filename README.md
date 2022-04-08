@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.rf.gd/](https://himanshudadheech.rf.gd/)
 - [https://himanshudadheech.github.io/React-Resume/](https://himanshudadheech.github.io/React-Resume/)
 
-- 📫 How to reach me *himanshudadheech74@gmail.com* *[https://himanshudadheech.live/](http://himanshudadheech.live/)*
+- 📫 How to reach me *himanshudadheech74@gmail.com* *[http://himanshudadheech.live/](http://himanshudadheech.live/)*
 
 - ⚡ Fun fact *I think Android Loves Oreo*
 
