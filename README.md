@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact *I think Android Loves Oreo*
 
--🌱 I’m currently learning Android and Full Stack Web.
+-🌱 I’m currently learning Android and Full Stack Web Development.
 
--👯 I’m looking to collaborate on ...Marketing,Internships, and Digital Marketing
+-👯 I’m looking to collaborate on ...Internships and Digital Marketing.
 
 -🤔 I’m looking for help with Coding carrer
 
--💬 Ask me about coding, web developement, Wordpress, Youtube, Digital Marketing, Google cloud.
+-💬 Ask me about coding, web developement, Youtube, Digital Marketing, Google cloud.
 
 -😄 Pronouns: he/him/his
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 
-## ⚒ Languages and Tools
-mongodb-original.svg
+## Languages and Tools
+
 <div>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/>
