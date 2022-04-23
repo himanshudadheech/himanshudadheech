@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 
-- 👨‍💻 You can also check out my portfolio at [https://himanshudadheech.github.io/React-Resume/](https://himanshudadheech.github.io/React-Resume/)
+- 👨‍💻 You can also check out my portfolio at [click here](https://himanshudadheech.github.io/React-Resume/)
 
-- 📫 How to reach me *himanshudadheech74@gmail.com* *[http://himanshudadheech.live/](http://himanshudadheech.live/)*
+- 📫 Website [here](http://himanshudadheech.live/)
 
 - ⚡ Fun fact *I think Android Loves Oreo*
 
