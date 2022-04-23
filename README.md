@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Himanshu Dadheech
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Dadheech
 
 
 
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-00adfe.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 </div>
-<br/>
+
 
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/himanshudadheech/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="himanshudadheech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHAcoZ9mcQQyfKYjy5YPXEA" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/youtube.svg" alt="himanshu_dadheech_" height="30" width="40" /></a>
-<br>
+
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudadheech&theme=algolia"/>
