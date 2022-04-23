@@ -41,15 +41,20 @@ Here are some ideas to get you started:
 <h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 
 ## ⚒ Languages and Tools
-
+<div>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt= "wordpress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="40" height= "40"/>                                                       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt= "java" width="40" height="40"/>                                 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt= "Google cloud" width="40" height="40"/>           <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt= "firebase" width="40" height="40"/>                         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt= "Html" width="40" height="40"/>                               <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt= "Python" width="40" height="40"/>                           <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt= "Photoshop" width="40" height="40"/> 
   <br/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-00adfe.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3"              src="https://img.shields.io/badge/css3-00adfe.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript"    src="https://img.shields.io/badge/javascript-00adfe.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="React"  src="https://img.shields.io/badge/react-00adfe.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Android"  src="https://img.shields.io/badge/android-00adfe.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-00adfe.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img alt="CSS3"  src="https://img.shields.io/badge/css3-00adfe.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-00adfe.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-00adfe.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+</div>
 <br/>
 
 ## Connect with me
@@ -57,6 +62,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/himanshudadheech/" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/linkedin.svg" alt="himanshudadheech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHAcoZ9mcQQyfKYjy5YPXEA" target="blank"><img align="center" src="https://github.com/himanshudadheech/Resouce-Icon/blob/main/youtube.svg" alt="himanshu_dadheech_" height="30" width="40" /></a>
 <br>
+<h3 align="center">-------------------------------------------------------------------------------------------------------</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=himanshudadheech&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudadheech&theme=algolia"/>
 |---|---|
